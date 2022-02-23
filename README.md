@@ -1,3 +1,1 @@
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudoDash" />
-
+<img align="center" src="https://camo.githubusercontent.com/a83e7c38e329b8d452fc9087cf1b6eefe000b148a407ed3bc0767d637b300cf5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d546f7869635374756666266c61796f75743d636f6d7061637426636f756e745f707269766174653d74727565267468656d653d6d69646e696768742d707572706c65" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicStuff&amp;layout=compact&amp;count_private=true&amp;theme=midnight-purple" style="max-width: 100%;">
