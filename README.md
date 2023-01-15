@@ -2,7 +2,7 @@
 𐋅𐌉𐌙𐌙𐌀! 
 I'm Ludo
 This is my passion project XZOR
-where I am striving to learn both electronic and software engineering along the way
+,where I strive to learn both electronic and software engineering along the way
 <img align="center" src="https://pbs.twimg.com/media/E-nU6LxVcAEnO81?format=jpg&name=large">
 </p>
 
