@@ -1,4 +1,6 @@
-### Hiyya! <img align="middle" width="150" height="150" src="https://user-images.githubusercontent.com/18017425/212540525-c702b9fe-01df-43c9-b0c4-12c4253c8ca0.png">
+<p align="center">
+Hiyya! <img align="middle" width="150" height="150" src="https://user-images.githubusercontent.com/18017425/212541061-6a16aa6c-1fe6-42d5-be63-d2e1189af333.png">
+</p>
 
 | <img align="center" src="https://github-readme-stats-six-snowy.vercel.app/api?username=LudoDash&theme=dark"> </a> | <img align="center" src="https://github-readme-stats-six-snowy.vercel.app/api/top-langs/?username=LudoDash&theme=dark"> |
 | ------------- | ------------- |
