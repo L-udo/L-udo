@@ -7,7 +7,7 @@ This is my passion project/business I named XZOR
 <p align="center">
 
 I'm Interested in Embedded programming + Computer vision,
-but still very much a beginner in the world of programming
+but I am still very much a beginner in the world of programming
 </p>
 <p align="center">
  
