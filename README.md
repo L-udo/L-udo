@@ -3,10 +3,13 @@ Hello!!
 I'm Ludo
 This is my passion project XZOR
 ,where I strive to learn about electronics along the way.
+</p>
+<p align="center">
 
 I'm Interested in Embedded programming + Computer vision,
 but still very much a beginner in the world of programming
-  
+</p>
+<p align="center">
 Profile Art By: [ShapaVoid](https://www.deviantart.com/shapavoid) 
 <img align="center" src="https://pbs.twimg.com/media/E-nU6LxVcAEnO81?format=jpg&name=large">
   
