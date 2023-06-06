@@ -2,7 +2,7 @@
 Hello!! 
 I'm Ludo
 This is my passion project XZOR
-,where I strive to learn both electronic and software engineering along the way.
+,where I strive to learn about electronics along the way.
 
 I'm Interested in Embedded programming + Computer vision,
 but still very much a beginner in the world of programming
