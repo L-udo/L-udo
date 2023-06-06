@@ -1,8 +1,6 @@
-# Hello!! 
 
-# I'm Ludo.
 <p align="center">
-
+# Hello! I'm Ludo!
 
 This is my passion project/business I named XZOR
 ,Where I am striving to learn about electronics while I develop my haptic feedback products.
