@@ -1,8 +1,13 @@
 <p align="center">
-𐋅𐌉𐌙𐌙𐌀! 
+Hello!! 
 I'm Ludo
 This is my passion project XZOR
 ,where I strive to learn both electronic and software engineering along the way
+
+I'm Interested in Embedded programming + Computer vision,
+but still very much a beginner in the world of programmig
+  
+Profile Art By: (ShapaVoid)[https://www.deviantart.com/shapavoid] 
 <img align="center" src="https://pbs.twimg.com/media/E-nU6LxVcAEnO81?format=jpg&name=large">
 </p>
 
