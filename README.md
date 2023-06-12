@@ -17,7 +17,6 @@ but I am still very much a beginner in the world of programming
 
 
 <img align="center" src="https://github-readme-stats-six-snowy.vercel.app/api/top-langs/?username=L-udo&theme=dark">
-| ------------- | ------------- |
 
 
 <img align="left" src="https://komarev.com/ghpvc/?username=L-udo&color=grey&style=flat-square" >
