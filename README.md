@@ -16,10 +16,10 @@ but I am still very much a beginner in the world of programming
 </p>
 
 
-| <img align="center" src="https://github-readme-stats-six-snowy.vercel.app/api?username=LudoDash&theme=dark"> </a> | <img align="center" src="https://github-readme-stats-six-snowy.vercel.app/api/top-langs/?username=LudoDash&theme=dark"> |
+| <img align="center" src="https://github-readme-stats-six-snowy.vercel.app/api?username=L-udo&theme=dark"> </a> | <img align="center" src="https://github-readme-stats-six-snowy.vercel.app/api/top-langs/?username=L-udo&theme=dark"> |
 | ------------- | ------------- |
 
 
-<img align="left" src="https://komarev.com/ghpvc/?username=LudoDash&color=grey&style=flat-square" >
+<img align="left" src="https://komarev.com/ghpvc/?username=L-udo&color=grey&style=flat-square" >
 
 
