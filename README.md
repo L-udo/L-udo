@@ -1,7 +1,7 @@
-# Hello! I'm Ludo!
+# Hello! I'm Lvdo!
 <p align="center">
 
-This is my passion project/business I named XZOR
+This is my passion project I named XZOR
 ,Where I am striving to learn about electronics while I develop my haptic feedback products.
 </p>
 <p align="center">
