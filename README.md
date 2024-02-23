@@ -1,8 +1,8 @@
 # Hello! I'm Lvdo!
 <p align="center">
 
-This is my passion project I named XZOR
-,Where I am striving to learn about electronics while I develop my haptic feedback products.
+This is my passion project I named OHL
+, Where I am striving to learn about electronics while I develop haptic feedback equipment.
 </p>
 <p align="center">
 
